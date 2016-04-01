@@ -1,0 +1,36 @@
+.div3p
+{
+    text-align:left;
+    position : absolute;
+    background: orange;
+    width: 500px; 
+    padding: 20px;
+    font-size: 16px;
+    left: 50%; 
+    margin: 60px 0 0 -270px;
+    border: 1px solid #28282E;
+}
+
+.myButton {
+	background-color:#ff6b08;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #66491c;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 21px;
+	text-decoration:none;
+	text-shadow:1px 0px 0px #283e66;
+}
+.myButton:hover {
+	background-color:#63a327;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}

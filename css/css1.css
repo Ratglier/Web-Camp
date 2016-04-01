@@ -1,0 +1,81 @@
+.div2p
+{
+    text-align:left;
+    position relative;
+    background: #E7EBEE;
+    width: 1150; 
+    padding: 20px;
+    font-size: 16px;
+    margin-left: 40px;
+    border: 5px solid #28282E;
+}
+
+.div1p
+{
+    text-align:left;
+    position relative;
+    background: #E7EBEE;
+    width: 985px;
+    padding: 20px;
+    font-size: 16px;
+    border: 5px solid #28282E;
+}
+
+.div3p
+{
+    text-align:left;
+    position : absolute;
+    background: #E7EBEE;
+    width: 500px; 
+    margin-bottom: 150px;
+    padding: 20px;
+    font-size: 16px;
+    left: 50%; 
+    margin: 60px 0 0 -270px;
+    border: 5px solid #28282E;
+  
+}
+
+.div3p input.input
+{
+    border-radius: 4px;
+    width: 200px;
+}
+
+.div3p a.mdp
+{
+    color: #39A6F9;
+}
+
+.div3p input.input2
+{
+    border-radius: 4px;
+    width: 400px;
+}
+ 
+
+.myButton {
+          margin:-7px;      
+	background-color:#28282E;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #66491c;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:10px 21px;
+	text-decoration:none;
+	text-shadow:1px 0px 0px #283e66;
+}
+.myButton:hover {
+	background-color:#ff6b08;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+		
